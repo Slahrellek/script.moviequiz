@@ -43,10 +43,11 @@
         <license>GPL 2.0</license>
         <platform>all</platform>
         <website>https://github.com/seveerekaj/script.moviequiz</website>
-        <forum>https://forum.kodi.tv/showthread.php?tid=92540</forum>
+        <forum>https://forum.kodi.tv/showthread.php?tid=364172</forum>
         <source>https://github.com/seveerekaj/script.moviequiz</source>
         <assets>
             <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
 </addon>
